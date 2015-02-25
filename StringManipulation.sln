@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringManipulation", "StringManipulation\StringManipulation.csproj", "{D24FD8EE-E501-4296-B4F4-8D28C5F29FDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeTest", "PrimeTest\PrimeTest.csproj", "{76A6A3E0-261D-42BE-98F1-FF7FDF12555D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D24FD8EE-E501-4296-B4F4-8D28C5F29FDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D24FD8EE-E501-4296-B4F4-8D28C5F29FDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D24FD8EE-E501-4296-B4F4-8D28C5F29FDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D24FD8EE-E501-4296-B4F4-8D28C5F29FDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76A6A3E0-261D-42BE-98F1-FF7FDF12555D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76A6A3E0-261D-42BE-98F1-FF7FDF12555D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76A6A3E0-261D-42BE-98F1-FF7FDF12555D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76A6A3E0-261D-42BE-98F1-FF7FDF12555D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
